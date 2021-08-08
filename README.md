@@ -14,4 +14,5 @@ I'm currently working on [libfprint](https://github.com/freedesktop/libfprint) t
 
 Many thanks to my sponsors:
 
++ @.PocKetS_
 + [@ghostface](https://github.com/ghostface)
