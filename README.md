@@ -15,3 +15,4 @@ I'm currently working on [libfprint](https://github.com/freedesktop/libfprint) t
 Many thanks to my sponsors:
 
 + [@ghostface](https://github.com/ghostface)
++ [@OctopusET](https://github.com/OctopusET)
