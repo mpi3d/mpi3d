@@ -14,7 +14,7 @@ I'm currently working on [libfprint](https://github.com/freedesktop/libfprint) t
 
 Many thanks to my sponsors:
 
-+ [@ghostface](https://github.com/ghostface)
 + [@OctopusET](https://github.com/OctopusET)
++ [@ghostface](https://github.com/ghostface)
 + [@ArcheoCodix](https://github.com/ArcheoCodix)
 + [@garex](https://github.com/garex)
