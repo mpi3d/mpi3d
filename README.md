@@ -2,7 +2,7 @@
 
 ## Hi
 
-I'm Matthieu CHARETTE, I'm 16, and I'm French.
+I'm Matthieu CHARETTE, I'm 17, and I'm French.
 
 I've been programming since I was 11. I began writing in Python. And years after years I've been learning many other languages like C, HTML, JavaScript, Golang, Dart...
 
